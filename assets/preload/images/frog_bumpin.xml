@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="frog_bumpin.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bump00" x="0" y="0" width="655" height="477"/>
+	<SubTexture name="bump01" x="755" y="0" width="655" height="477"/>
+	<SubTexture name="bump02" x="755" y="0" width="655" height="477"/>
+	<SubTexture name="bump03" x="0" y="577" width="655" height="477"/>
+	<SubTexture name="bump04" x="0" y="577" width="655" height="477"/>
+	<SubTexture name="bump05" x="755" y="577" width="655" height="477"/>
+	<SubTexture name="bump06" x="755" y="577" width="655" height="477"/>
+	<SubTexture name="bump07" x="755" y="577" width="655" height="477"/>
+	<SubTexture name="bump08" x="755" y="577" width="655" height="477"/>
+	<SubTexture name="bump09" x="755" y="577" width="655" height="477"/>
+	<SubTexture name="bump10" x="755" y="577" width="655" height="477"/>
+	<SubTexture name="bump11" x="755" y="577" width="655" height="477"/>
+	<SubTexture name="bump12" x="755" y="577" width="655" height="477"/>
+	<SubTexture name="bump13" x="755" y="577" width="655" height="477"/>
+	<SubTexture name="bump14" x="755" y="577" width="655" height="477"/>
+</TextureAtlas>
