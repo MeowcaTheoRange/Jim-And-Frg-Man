@@ -85,13 +85,16 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			[''],
+			['Frog Man Team'],
+			['Ronnhaha',			'gedehari',			'Director',					'https://twitter.com/Ronn_haha',			'FF9300'],
+			['MeowcaTheoRange',		'iflicky',			'Programmer',				'https://gamebanana.com/members/2029036',	'C549DB'],
+			['Aikoyori',			'iflicky',			'Programmer 2: Electric Boogaloo',	'https://twitter.com/Aikoyori',		'C549DB'],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',						'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',					'https://twitter.com/river_oaken',		'C30085'],
 			['shubs',				'shubs',			'Additional Programmer of Psych Engine',				'https://twitter.com/yoshubs',			'4494E6'],
-			[''],
-			['Former Engine Members'],
-			['bb-panzu',			'bb-panzu',			'Ex-Programmer of Psych Engine',						'https://twitter.com/bbsub3',			'389A58'],
+			['bb-panzu',			'bb-panzu',			'Ex-Programmer of Psych Engine',						'https://twitter.com/bbsub3',			'757575'],
 			[''],
 			['Engine Contributors'],
 			['SqirraRNG',			'gedehari',			'Chart Editor\'s Sound Waveform base',					'https://twitter.com/gedehari',			'FF9300'],
